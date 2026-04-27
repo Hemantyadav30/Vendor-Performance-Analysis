@@ -147,3 +147,7 @@ The project extracts raw data from CSV files, cleans it using **Python (Pandas &
 - **Communication:** Insights only valuable if clearly presented to stakeholders
 
 ---
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/hemant-yadav-273a60376)
+
+---
